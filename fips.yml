@@ -6,9 +6,9 @@ policies:
   no_auto_import: true
 imports:
   fips-imgui:
-    git: https://github.com/fips-libs/fips-imgui.git
+    git: https://github.com/fips-libs/fips-imgui
   chips:
-    git: https://github.com/floooh/chips
+    git: git@git.tiepy.dev:stever/chips.git
   sokol:
     git: https://github.com/floooh/sokol
   sokol-tools-bin:

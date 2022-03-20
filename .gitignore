@@ -1,6 +1,8 @@
-.vscode/
-.DS_Store
-fips-files/build/
-fips-files/deploy/
-.fips-*
-*.pyc
+/**/*.pyc
+/**/.DS_Store
+/**/.fips-*
+/**/.idea/
+/**/.vscode/
+/cmake-build-*/
+/fips-files/build/
+/fips-files/deploy/
