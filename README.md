@@ -1,8 +1,8 @@
 # chips-test
 
-Tests and sample emulators for https://git.tiepy.dev/stever/chips
+Tests and sample emulators for https://github.com/stever/chips
 
-Live demos of the example emulators: https://git.tiepy.dev/stever/tiny8bit
+Live demos of the example emulators: https://github.com/stever/tiny8bit
 
 NOTE: on Linux, additional dev packages need to be present for X11, GL and ALSA development.
 
